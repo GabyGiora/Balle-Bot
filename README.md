@@ -1,2 +1,2 @@
 # Balle Bot
-Landing page com HTML e CSS 
+Landing page com HTML e CSS.
